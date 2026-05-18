@@ -6,7 +6,7 @@ web development, software development and problem
 solving. Eager to apply my skills in real-world project and  
 continuously learn new technologies.
 
-Skills: C Language
+Skills:Basic C Language
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java 
