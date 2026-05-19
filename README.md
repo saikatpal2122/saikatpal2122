@@ -1,4 +1,4 @@
-##### Hi there 👋,I'm Saikat Pal
+### Hi there 👋,I'm Saikat Pal
 #### I'm a student
 I am currently studying Computer Science and engineering at  
 Daffodil International University. I am passionate about AI, 
